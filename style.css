@@ -1,0 +1,23 @@
+h1 {
+  font-size: 50px;
+}
+
+.font-size {
+  font-size: 20px;
+}
+
+#paragraph {
+  font-weight: bold;
+}
+
+#vrijeme {
+  font-weight: bold;
+}
+
+#geo-likovi {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  display: none;
+  position: relative;
+}
